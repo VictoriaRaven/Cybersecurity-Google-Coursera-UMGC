@@ -1,0 +1,21 @@
+Hello all,
+
+Cables Used:
+
+HDMI wire with a splitter&nbsp; to swap between two or three screens
+RJ45 (eight-pin connector) Cat 5e UTP Ethernet cable with Ethernet Standard of 1000BASE-T which carries bandwidth capacity of 1Gbps, distance limitation of 100m
+RJ45 (eight-pin connector) Cat 5 UTP Ethernet cable for Gigabyte switch, Router, and LAN switch port with Ethernet Standard of 100BASE-TX which carries bandwidth capacity of 100Mbps, distance limitation of 100m
+USB-C cable for phone
+AC adapter for laptop/PC and wall outlet extender&nbsp;&nbsp;
+Audio jacks and USB-C converter for headphones or USB connector
+DP cable for PC monitor.
+
+I usually have two devices connected. First is my laptop screen and my second monitor through the HDMI splitter. Other days I have my laptop screen with two monitors through the HDMI splitter. As for my office, I usually have all of the cables mentioned plugged in an connected to and can be accessible any time I want to with a switch.
+
+I have these network equipment which are a Router, Modem, Network Switch, LAN Switch, Hub, and Access Point/Repeater. Other equipment are Ethernet, Cable, Streaming Device, Consoles, and Security/Surveillance Devices/Firewall (from software).
+
+Since I live in the suburban, my internet speed is
+
+I have a unique use for my network beyond connecting to the internet.
+
+Other cable types are: a coaxial cable in physics for the oscilloscope Bayonet Neill-Concelman (BNC) which connects two coaxial cables together; audio or video wires (RCA) and AV for consoles (now I use an HDMI converter); TRS or a Real Tone cable (1/4 input to USB), MIDI cable, USB-A to USB-B all for Focusrite, AMP, Instrument;&nbsp;
